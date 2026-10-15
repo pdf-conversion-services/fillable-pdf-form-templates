@@ -1,0 +1,27 @@
+{
+  "slug": "fillable-pdf-form-templates",
+  "title": "Fillable PDF Form Templates",
+  "form": "Client intake form",
+  "kind": "intake",
+  "description": "Unbranded fillable PDF client intake templates for US Letter and UK/Australia A4, with real screenshots and editable Python source.",
+  "primary": "fillable PDF forms",
+  "secondary": [
+    "fillable PDF templates",
+    "client intake form PDF",
+    "create fillable PDF",
+    "Word to fillable PDF"
+  ],
+  "service": "https://pdfserviceexperts.com/services/fillable-pdf-forms/",
+  "anchor": "custom fillable PDF forms",
+  "topics": [
+    "fillable-pdf",
+    "pdf-forms",
+    "acroform",
+    "pdf-templates",
+    "client-intake",
+    "reportlab",
+    "python"
+  ],
+  "value": "Collect a contact, project purpose and requirements in a reusable interactive form.",
+  "guide": "Choose a template, save a copy, enter the contact details, select a project purpose and describe the information you need to collect. The form uses text fields, a dropdown and a checkbox. It has no automatic submission, calculation or digital signature."
+}

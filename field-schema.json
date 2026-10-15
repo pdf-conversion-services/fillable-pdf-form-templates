@@ -1,0 +1,200 @@
+{
+  "us": {
+    "full_name": {
+      "label": "Full name",
+      "type": "text",
+      "options": null
+    },
+    "email": {
+      "label": "Email",
+      "type": "text",
+      "options": null
+    },
+    "city": {
+      "label": "City",
+      "type": "text",
+      "options": null
+    },
+    "region": {
+      "label": "State",
+      "type": "text",
+      "options": null
+    },
+    "postal": {
+      "label": "ZIP code",
+      "type": "text",
+      "options": null
+    },
+    "project": {
+      "label": "Project title",
+      "type": "text",
+      "options": null
+    },
+    "purpose": {
+      "label": "Form purpose",
+      "type": "choice",
+      "options": [
+        "Select a purpose",
+        "Registration",
+        "Client intake",
+        "Service request",
+        "Other"
+      ]
+    },
+    "date": {
+      "label": "Requested date (MM/DD/YYYY)",
+      "type": "text",
+      "options": null
+    },
+    "contact_method": {
+      "label": "Preferred contact",
+      "type": "choice",
+      "options": [
+        "Select a method",
+        "Email",
+        "Telephone"
+      ]
+    },
+    "requirements": {
+      "label": "Fields or workflow needed",
+      "type": "text",
+      "options": null
+    },
+    "reviewed": {
+      "label": "I have reviewed the details entered in this sample.",
+      "type": "checkbox"
+    }
+  },
+  "uk": {
+    "full_name": {
+      "label": "Full name",
+      "type": "text",
+      "options": null
+    },
+    "email": {
+      "label": "Email",
+      "type": "text",
+      "options": null
+    },
+    "city": {
+      "label": "City",
+      "type": "text",
+      "options": null
+    },
+    "region": {
+      "label": "County / region",
+      "type": "text",
+      "options": null
+    },
+    "postal": {
+      "label": "Postcode",
+      "type": "text",
+      "options": null
+    },
+    "project": {
+      "label": "Project title",
+      "type": "text",
+      "options": null
+    },
+    "purpose": {
+      "label": "Form purpose",
+      "type": "choice",
+      "options": [
+        "Select a purpose",
+        "Registration",
+        "Client intake",
+        "Service request",
+        "Other"
+      ]
+    },
+    "date": {
+      "label": "Requested date (DD/MM/YYYY)",
+      "type": "text",
+      "options": null
+    },
+    "contact_method": {
+      "label": "Preferred contact",
+      "type": "choice",
+      "options": [
+        "Select a method",
+        "Email",
+        "Telephone"
+      ]
+    },
+    "requirements": {
+      "label": "Fields or workflow needed",
+      "type": "text",
+      "options": null
+    },
+    "reviewed": {
+      "label": "I have reviewed the details entered in this sample.",
+      "type": "checkbox"
+    }
+  },
+  "au": {
+    "full_name": {
+      "label": "Full name",
+      "type": "text",
+      "options": null
+    },
+    "email": {
+      "label": "Email",
+      "type": "text",
+      "options": null
+    },
+    "city": {
+      "label": "City",
+      "type": "text",
+      "options": null
+    },
+    "region": {
+      "label": "State / territory",
+      "type": "text",
+      "options": null
+    },
+    "postal": {
+      "label": "Postcode",
+      "type": "text",
+      "options": null
+    },
+    "project": {
+      "label": "Project title",
+      "type": "text",
+      "options": null
+    },
+    "purpose": {
+      "label": "Form purpose",
+      "type": "choice",
+      "options": [
+        "Select a purpose",
+        "Registration",
+        "Client intake",
+        "Service request",
+        "Other"
+      ]
+    },
+    "date": {
+      "label": "Requested date (DD/MM/YYYY)",
+      "type": "text",
+      "options": null
+    },
+    "contact_method": {
+      "label": "Preferred contact",
+      "type": "choice",
+      "options": [
+        "Select a method",
+        "Email",
+        "Telephone"
+      ]
+    },
+    "requirements": {
+      "label": "Fields or workflow needed",
+      "type": "text",
+      "options": null
+    },
+    "reviewed": {
+      "label": "I have reviewed the details entered in this sample.",
+      "type": "checkbox"
+    }
+  }
+}
